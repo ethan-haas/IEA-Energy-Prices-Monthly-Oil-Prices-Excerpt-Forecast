@@ -14,6 +14,7 @@ plot_forecast(df, country, product, mean_prediction, lower_prediction_95, upper_
 
 
 <h2 style="color:blue; font-weight:bold">Code Workflow:</h2>
+
 1.) Read in the data from the Excel sheet labeled "raw"
 
 2.) Convert the TIME column to a pandas datetime object
