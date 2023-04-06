@@ -2,6 +2,35 @@ IEA Energy Prices - Monthly Oil Prices Excerpt Forecast.ipynb
 
 This Jupyter notebook contains Python code for forecasting monthly oil prices using a Monte Carlo simulation. The data used in this code is from the International Energy Agency (IEA) and is available on their website (https://www.iea.org/data-and-statistics/data-product/monthly-oil-price-statistics-2#data-sets). The dataset used is labeled "raw".
 
+
+
+United States
+
+![newplot (9)](https://user-images.githubusercontent.com/88012037/230486943-c4ece611-f4d9-4e92-a8d5-00bc53d637b1.png)
+![newplot (8)](https://user-images.githubusercontent.com/88012037/230486965-8c575616-c07f-42a0-a455-8386093c2247.png)
+![newplot (7)](https://user-images.githubusercontent.com/88012037/230487000-bb246c57-c115-4ce8-ba5c-2b767cdfcfcf.png)
+
+
+
+United Kingdom
+
+![newplot (6)](https://user-images.githubusercontent.com/88012037/230487096-bb205386-af5d-458e-b197-22812b43fccb.png)
+![newplot (5)](https://user-images.githubusercontent.com/88012037/230487141-04d02886-9815-42da-8d93-72ca211eff13.png)
+![newplot (5)](https://user-images.githubusercontent.com/88012037/230487156-b23b639d-7717-4c45-954b-7412a5c80a57.png)
+
+
+
+Canada
+
+![newplot (3)](https://user-images.githubusercontent.com/88012037/230487421-0e1e2800-5a0b-4cfd-8326-2bb1c0f086ab.png)
+![newplot (2)](https://user-images.githubusercontent.com/88012037/230487364-0746d4c6-4005-47d2-85ae-c1ab8be294bd.png)
+![newplot (1)](https://user-images.githubusercontent.com/88012037/230487349-24e1cda5-c73a-41e7-bbee-07296ffec4d6.png)
+
+
+
+
+
+
 Libraries Used:
 
 pandas - used for reading and preprocessing the data
