@@ -15,11 +15,17 @@ plot_forecast(df, country, product, mean_prediction, lower_prediction_95, upper_
 
 <h2 style="color:blue; font-weight:bold">Code Workflow:</h2>
 1.) Read in the data from the Excel sheet labeled "raw"
+
 2.) Convert the TIME column to a pandas datetime object
+
 3.) Group the data by COUNTRY and PRODUCT and sort by TIME
+
 4.) Reset the index of the grouped dataframe 
-5.) Call the monte_carlo_sim function for the desired country and product 
+
+5.) Call the monte_carlo_sim function for the desired country and product
+
 6.) Call the plot_forecast function using the output from the monte_carlo_sim function
+
 
 Note: This code was originally created in Google Colaboratory, and the notebook can be accessed using the link provided in the code.
 
