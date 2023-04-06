@@ -24,7 +24,7 @@ Code Workflow:
 
 Note: This code was originally created in Google Colaboratory, and the notebook can be accessed using the link provided in the code.
 
-Examples of outpu plots:
+Examples of output plots (plots are interactive while using jupyter notbook):
 
 United States
 
